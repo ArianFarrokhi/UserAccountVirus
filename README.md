@@ -31,3 +31,6 @@ Wanna log in to one of that accounts?
 
 This local accounts are Password-Protected and the password is: ImaginePassword1234
 -----------------------------------------------------
+Feel free to ask me in issues if you have any problems :)
+
+Stay safe.
