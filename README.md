@@ -1,4 +1,4 @@
-*😈 A powerful file that will DESTROY victim's pc! 😈*
+*😈 A powerful file that will DESTROY victim's pc! 😈* By: 
 ------------------------------------------------------
 ------------------------------------------------------
 - What this file does:
@@ -12,7 +12,7 @@
  
 -----------------------------------------------------
 VirusTotal Scan Results:
-https://www.virustotal.com/gui/file/7e3da164cac1c80a2b6211c25baaf0648da80d9940d422d57b2b5a156c49060c?nocache=1
+[ https://www.virustotal.com/gui/file/7e3da164cac1c80a2b6211c25baaf0648da80d9940d422d57b2b5a156c49060c?nocache=1 ]
 
 -----------------------------------------------------
 READ THIS:
