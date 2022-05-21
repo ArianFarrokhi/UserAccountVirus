@@ -1,4 +1,4 @@
-*😈 A powerful file that will DESTROY victim's pc! 😈* By: MubyCO#3957 <-- Feel free to ask questions! :D
+*😈 A powerful file that will DESTROY victim's pc! 😈* By: MubyCO#3957 <-- dm for problems :D
 ------------------------------------------------------
 ------------------------------------------------------
 - What this file does:
