@@ -27,7 +27,6 @@ How to run it?
 
 [Make sure to run it for few minutes!!!]
 
-Screenshot:
 ![image](https://user-images.githubusercontent.com/80380401/169679778-2289e032-ab0e-43d1-82ca-9818d5641ac9.png)
 
 This local accounts are Password-Protected and the password is: ImaginePassword1234
