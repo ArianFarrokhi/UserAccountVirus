@@ -26,6 +26,10 @@ How to run it?
 - or say its free nitro generator, or free windows activator ;D
 
 [Make sure to run it for few minutes!!!]
+
+Screenshot:
+![image](https://user-images.githubusercontent.com/80380401/169679778-2289e032-ab0e-43d1-82ca-9818d5641ac9.png)
+
 -----------------------------------------------------
 Wanna log in to one of that accounts?
 
@@ -34,3 +38,4 @@ This local accounts are Password-Protected and the password is: ImaginePassword1
 Feel free to ask me in issues if you have any problems :)
 
 Stay safe.
+-----------------------------------------------------
