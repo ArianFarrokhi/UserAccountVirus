@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=ArianFarrokhi&color=green)
 
-*😈 A powerful file that will DESTROY victim's pc! 😈* By: MubyCO#3957 <-- dm for problems :D
+*😈 A powerful file that will DESTROY victim's pc! 😈* By: MubyCO#3957 <-- :D
 ------------------------------------------------------
+download latest version: (https://discord.gg/SH9gFcWjXM)
 ------------------------------------------------------
 - What this file does:
   - This file spam creates as many (Local User Accounts) as it can, And this will cause So much lag on victim's pc when starting it... (depends on your pc specs)
