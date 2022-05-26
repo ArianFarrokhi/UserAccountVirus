@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 *😈 A powerful file that will DESTROY victim's pc! 😈* By: MubyCO#3957 <-- dm for problems :D
 ------------------------------------------------------
 ------------------------------------------------------
