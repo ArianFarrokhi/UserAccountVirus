@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=MubyCO&color=green)
 
-* A powerful file that will DESTROY victim's pc in a few minutes *
+* A powerful file that will DESTROY victim's pc in moments
 ------------------------------------------------------
 - What this file does:
   - This file spam creates as many (Local User Accounts) as it can, And this will cause So much lag on victim's pc when starting it... (Depends on your pc specs)
