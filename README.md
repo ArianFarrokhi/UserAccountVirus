@@ -4,13 +4,13 @@
 Discord: D3monZ_Op#2684 <-- :D
 ------------------------------------------------------
 - What this file does:
-  - This file spam creates as many (Local User Accounts) as it can, And this will cause So much lag on victim's pc when starting it... (depends on your pc specs)
-  - ~grabs victim's token (soon)~
+  - This file spam creates as many (Local User Accounts) as it can, And this will cause So much lag on victim's pc when starting it... (Depends on your pc specs)
+  - ~Grabs victim's token (Soon)~
 
 -----------------------------------------------------
 - Why should i use this?
-  - it IS and WILL be Fully undetected by any antivirus!
-   - This Virus will likely make the victim to reinstall their windows
+  - It IS and (As of 2024) undetected by any antivirus
+   - Will likely make the victim to reinstall their windows
  
 -----------------------------------------------------
 VirusTotal Scan Results:
@@ -23,9 +23,9 @@ READ THIS:
 How to run it?
 
 - Just send the file to victim and make them run it
-- or say its free nitro generator, or free windows activator or something...
+- Excuses differ, such as a free nitro generator, or a free windows activator, Etc.
 
-[Make sure to run it for few minutes!!!]
+[Make sure to run it for few minutes for maximum damage!!!]
 
 ![image](https://user-images.githubusercontent.com/80380401/169679778-2289e032-ab0e-43d1-82ca-9818d5641ac9.png)
 
